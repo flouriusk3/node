@@ -1,4 +1,4 @@
-// Variables
+// Modules
 var readline = require('readline');
 var util = require('util');
 var RL = readline.createInterface(process.stdin, process.stdout);
